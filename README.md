@@ -1,9 +1,9 @@
-# Emotion Detection Project
+# Final Project
 
-This project detects emotions from text using a simple Python API.
+This project implements Emotion Detection using Watson NLP API.
 
 ## Features
-- Emotion detection
+- Detect emotions from text
 - Flask API
-- Unit testing
 - Error handling
+- Unit testing
