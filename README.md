@@ -1,14 +1,9 @@
-# Emotion Detection App
+# Emotion Detection Project
 
-This project detects emotions from text using IBM Watson NLP.
+This project detects emotions from text using a simple Python API.
 
 ## Features
-- Emotion detection (joy, sadness, anger, fear, disgust)
-- Flask web app
+- Emotion detection
+- Flask API
 - Unit testing
 - Error handling
-
-## Tech Stack
-- Python
-- Flask
-- Watson NLP
